@@ -1,6 +1,6 @@
 # Shopping List -esimerkkisovellus
 
-Tämän projekti on [Javalin-teknologialla](https://javalin.io/) tehty versio [ShoppingListExample](https://github.com/havulinna/shoppinglist-example)-esimerkkisovelluksesta. 
+Tämä projekti on [Javalin-teknologialla](https://javalin.io/) tehty versio [ShoppingListExample](https://github.com/havulinna/shoppinglist-example)-esimerkkisovelluksesta. 
 
 > "Unlike other Java and Kotlin web frameworks, Javalin has very few concepts that you need to learn. You never extend classes and you rarely implement interfaces."
 >
